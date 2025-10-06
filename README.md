@@ -110,12 +110,12 @@ Follow these steps to run the notebook on your local machine:
 
 ### 1️⃣ Clone this Repository
 ```bash
-git clone https://github.com/Vikas-Yadav-6696/Covid-19-Analysis.git
+git clone https://github.com/Vikas-Yadav-6696/COVID-19-PYTHON-DATA-ANALYSIS.git
 ```
 
 ### 2️⃣ Navigate to the Project Directory
 ```bash
-cd Covid-19-Analysis
+cd COVID-19-PYTHON-DATA-ANALYSIS
 ```
 
 ### 3️⃣ Install Dependencies
@@ -133,6 +133,8 @@ jupyter notebook Covid_19_Analysis.ipynb
 Inside Jupyter:
 - Click on **“Run All”** from the menu to execute the full notebook.
 - View charts and insights generated from the dataset.
+
+
 
 ---
 
