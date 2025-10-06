@@ -7,6 +7,7 @@ It explores real-world data related to **confirmed cases, deaths, recoveries, an
 The analysis provides meaningful **visual insights**, **trends**, and **comparisons** that help understand how the virus spread over time and how different nations responded to it.
 
 The project is implemented as a **Jupyter Notebook (`Covid_19_Analysis.ipynb`)** that performs **data cleaning**, **processing**, **exploratory analysis**, and **visualization** using popular Python libraries.
+
 [![View Analysis](https://img.shields.io/badge/View%20Live%20Analysis-blue?style=for-the-badge&logo=github)](https://vikas-yadav-6696.github.io/COVID-19-PYTHON-DATA-ANALYSIS/)
 
 ---
